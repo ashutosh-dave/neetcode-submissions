@@ -1,0 +1,5 @@
+print(type(25))
+print(type(3.14))
+print(type(True))
+print(type("Flanker"))
+print(type([1, 2, 3]))
